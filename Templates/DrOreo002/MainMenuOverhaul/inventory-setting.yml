@@ -797,9 +797,9 @@ Misc:
         lore:
           - '&aClick &7to go to next page'
     selectable:
-      material: GRAY_STAINED_GLASS_PANE
+      material: PAPER
       # Material will change to this if the template is currently applied
-      applied: LIME_STAINED_GLASS_PANE
+      applied: BOOK
       name: '&a%templateName% &e(v%version%)'
       lore:
         - '&7A template by &e%author%'
