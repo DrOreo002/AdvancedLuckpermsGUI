@@ -4,16 +4,14 @@ ConfigVersion: CUSTOM_TEMPLATE # Do not change!
 Main:
   MainMenu:
     title: 'LuckPermsGUI'
-    size: 45
+    size: 27
     openAnimation: 'ITEM_WAVE_ANIMATION' # Case sensitive
     # This is the inventory layout
     # Every line must have 9 characters
     # The replacement of the character can be found at the layout-item key
     layout:
       - '111111111'
-      - 'XAXXBXXCX'
-      - 'XXXXXXXXX'
-      - 'XXXXDXXXX'
+      - '2XAB3CDX2'
       - '111111111'
     # The replacements, it is case sensitive
     # so be careful when editing it!
@@ -22,9 +20,14 @@ Main:
       1:
         name: ' '
         material: IRON_BARS
-      X:
+      2:
+        name: ' '
+        material: OAK_LOG
+      3:
         name: ' '
         material: GRAY_STAINED_GLASS_PANE
+      X:
+        material: AIR
       A:
         name: 'Manage Player'
         material: PLAYER_HEAD
