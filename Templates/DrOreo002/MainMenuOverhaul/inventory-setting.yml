@@ -1,4 +1,4 @@
-ConfigVersion: 'CUSTOM_TEMPLATE' # Do not change!
+ConfigVersion: CUSTOM_TEMPLATE # Do not change!
 
 # Main inventory
 Main:
@@ -1184,3 +1184,5 @@ SetValue:
         lore:
           - '&7Click to save your changes!'
         material: EMERALD_BLOCK
+
+
