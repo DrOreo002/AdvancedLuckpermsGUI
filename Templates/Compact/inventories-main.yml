@@ -6,7 +6,7 @@ MainMenu:
   # The replacement of the character can be found at the layout-item key
   layout:
     - '111111111'
-    - '2XABCDEF2'
+    - '2ABC2DEF2'
     - '111111111'
   # The replacements, it is case sensitive
   # so be careful when editing it!
@@ -21,8 +21,6 @@ MainMenu:
     3:
       name: ' '
       material: GRAY_STAINED_GLASS_PANE
-    X:
-      material: AIR
     A:
       name: 'Manage Player'
       material: PLAYER_HEAD
