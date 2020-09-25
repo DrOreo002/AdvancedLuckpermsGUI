@@ -1,2 +1,2 @@
 # Registered custom template.
-DrOreo002|Compact|Compact template, with no animation
+DrOreo002|Compact|1.0|Compact template, with no animation
