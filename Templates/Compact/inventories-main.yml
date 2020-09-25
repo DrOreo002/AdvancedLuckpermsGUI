@@ -61,13 +61,16 @@ MainMenu:
       lore:
         - '&7See information about &aGroups, User, etc&7 here'
     E:
-      name: '&f&lOnline Templates'
-      material: STICK
+      name: '&f&lManage Bulk Updates'
+      material: BOOK
       animated: true
       animationData:
         animationName: 'FILL_ANIMATION'
       lore:
-        - '&7Check out some &aOnlineTemplates &7that the dev provides!'
+        - '&7Bulk operation is really useful'
+        - '&7to make a big change at your database'
+        - '&r'
+        - '&aLeft-Click &7to start managing!'
     F:
       name: '&f&lOnline Templates'
       material: STICK
