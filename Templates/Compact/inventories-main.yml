@@ -17,9 +17,6 @@ MainMenu:
       material: IRON_BARS
     2:
       name: ' '
-      material: OAK_LOG
-    3:
-      name: ' '
       material: GRAY_STAINED_GLASS_PANE
     A:
       name: 'Manage Player'
