@@ -1,2 +1,0 @@
-# Registered custom template.
-DrOreo002|MainMenuOverhaul|1.0|UNIVERSAL
